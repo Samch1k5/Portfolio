@@ -1,3 +1,3 @@
 # Portfolio
 Проекты с закрытым исходником:
-SolverNetwork - @Solver_network_bot(telegram)
+SolverNetwork - @Solver_network_bot(telegram) - Бот, который поможет вам в учебе, сделает за вас презентацию, сочинение, реферат и многое другое!
