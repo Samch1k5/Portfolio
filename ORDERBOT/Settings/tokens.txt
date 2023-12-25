@@ -1,0 +1,4 @@
+bot_token: token
+payment_token: token
+admin_token: token
+admin_pass: 12345
