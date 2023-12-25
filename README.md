@@ -1,3 +1,3 @@
 # Portfolio
-Проекты с закрытым исходником:\n
+Проекты с закрытым исходником:
 SolverNetwork - @Solver_network_bot(telegram)
